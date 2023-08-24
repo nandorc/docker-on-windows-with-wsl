@@ -4,7 +4,7 @@ WSL permitirá la ejecución de una máquina Linux sobre su entorno Windows. Par
 
 ## Habilitar características en la máquina Windows
 
-Valide los [requerimientos para ejecutar WSL2](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-2---check-requirements-for-running-wsl-2) y ejecute en `powershell` los siguientes comandos.
+Valide los [requerimientos para ejecutar WSL2](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-2---check-requirements-for-running-wsl-2) y ejecute en `powershell` con permisos de Administrador los siguientes comandos.
 
 ~~~powershell
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart

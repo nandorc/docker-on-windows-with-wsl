@@ -6,8 +6,6 @@ Puede descargarlo e instalarlo desde [este enlace](https://code.visualstudio.com
 
 ## Enlaces
 
-**Anterior:** [Instalar Windows Terminal](./install-windows-terminal.md)
-
-**Siguiente:** [Instalar GIT](./install-git.md)
-
-**Inicio:** [Instalación y Habilitación de Docker Engine en Windows usando WSL](../README.md)
+- [Anterior: Instalar Windows Terminal](./install-windows-terminal.md)
+- [Siguiente: Instalar GIT en Windows](./install-git-on-windows.md)
+- [Instalación y configuración de WSL en Windows](../README.md)

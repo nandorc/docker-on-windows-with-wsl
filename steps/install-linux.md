@@ -10,7 +10,7 @@ Ejecute en `powershell` el siguiente comando.
 >
 > Al momento del registro de estos pasos la version que se instala al finalizar el proceso es `Ubuntu 22.04.2 LTS`
 
-~~~bash
+~~~powershell
 wsl --install -d Ubuntu
 ~~~
 
@@ -40,8 +40,7 @@ sudo apt-get upgrade -y
 
 ## Enlaces
 
-**Anterior:** [Instalar WSL2](./install-wsl-2.md)
-
-**Siguiente:** [Instalar Docker Engine](./install-docker-engine.md)
-
-**Inicio:** [Instalación y Habilitación de Docker Engine en Windows usando WSL](../README.md)
+- [Anterior: Instalar WSL2](./install-wsl-2.md)
+- [Siguiente: Aplicar configuración recomendada para GIT en máquina Linux](./setup-git-on-linux.md)
+- [Instalación y configuración de WSL en Windows](../README.md)
+- [WSL no conecta a internet](../troubleshooting/wsl-no-internet.md)

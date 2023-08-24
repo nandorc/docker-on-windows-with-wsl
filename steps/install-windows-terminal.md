@@ -6,6 +6,5 @@ Para la mayoría de tareas que se ejecutarán a continuación se usará la termi
 
 ## Enlaces
 
-**Siguiente:** [Instalar Visual Studio Code](./install-vscode.md)
-
-**Inicio:** [Instalación y Habilitación de Docker Engine en Windows usando WSL](../README.md)
+- [Siguiente: Instalar Visual Studio Code](./install-vscode.md)
+- [Instalación y configuración de WSL en Windows](../README.md)

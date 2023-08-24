@@ -6,11 +6,11 @@ WSL permitirá la ejecución de una máquina Linux sobre su entorno Windows. Par
 
 Valide los [requerimientos para ejecutar WSL2](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-2---check-requirements-for-running-wsl-2) y ejecute en `powershell` los siguientes comandos.
 
-~~~bash
+~~~powershell
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ~~~
 
-~~~bash
+~~~powershell
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ~~~
 
@@ -24,14 +24,12 @@ Descargue e instale el [paquete de actualización del kernel de linux](https://w
 
 Ejecute el siguiente comando en `powershell`.
 
-~~~bash
+~~~powershell
 wsl --set-default-version 2
 ~~~
 
 ## Enlaces
 
-**Anterior:** [Instalar Extensión de VSCode recomendada](./install-vscode-extension.md)
-
-**Siguiente:** [Instalar y configurar una máquina Linux](./install-linux.md)
-
-**Inicio:** [Instalación y Habilitación de Docker Engine en Windows usando WSL](../README.md)
+- [Anterior: Instalar Extensión de VSCode recomendada](./install-vscode-extension.md)
+- [Siguiente: Instalar y configurar una máquina Linux](./install-linux.md)
+- [Instalación y configuración de WSL en Windows](../README.md)

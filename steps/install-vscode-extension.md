@@ -4,8 +4,6 @@ Para que pueda posteriormente trabajar cómodamente con todas las opciones remot
 
 ## Enlaces
 
-**Anterior:** [Instalar GIT](./install-git.md)
-
-**Siguiente:** [Instalar WSL2](./install-wsl-2.md)
-
-**Inicio:** [Instalación y Habilitación de Docker Engine en Windows usando WSL](../README.md)
+- [Anterior: Instalar GIT en Windows](./install-git-on-windows.md)
+- [Siguiente: Instalar WSL2](./install-wsl-2.md)
+- [Instalación y configuración de WSL en Windows](../README.md)

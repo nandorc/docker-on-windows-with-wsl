@@ -106,6 +106,5 @@ docker run hello-world
 
 ## Enlaces
 
-**Anterior:** [Instalar y configurar una máquina Linux](./install-linux.md)
-
-**Inicio:** [Instalación y Habilitación de Docker Engine en Windows usando WSL](../README.md)
+- [Anterior: Aplicar configuración recomendada para GIT en máquina Linux](./setup-git-on-linux.md)
+- [Instalación y configuración de WSL en Windows](../README.md)
